@@ -1484,6 +1484,7 @@ from .voxmedia import (
     VoxMediaVolumeIE,
     VoxMediaIE,
 )
+from .vocaroo import VocarooIE
 from .vrt import VRTIE
 from .vrak import VrakIE
 from .vrv import (
